@@ -1,4 +1,4 @@
-~Tugas Kecerdasan Buatan~
+*Tugas Kecerdasan Buatan*
 
 Anggota Kelompok:
 1. Aditya Johansah (2215061039)
