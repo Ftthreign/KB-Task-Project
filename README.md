@@ -18,5 +18,5 @@ Anggota Kelompok:
 - Pandas
 
 ```bash
-pip install scikit-fuzzy numpy matplotlib pandas
+pip install scikit-fuzzy numpy matplotlib pandas scikit-learn
 ```
