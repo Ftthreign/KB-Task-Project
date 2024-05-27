@@ -12,10 +12,8 @@ Anggota Kelompok:
 
 - scikit-fuzzy
 - Numpy
-
-> > Optional
-
 - Pandas
+- scikit-learn
 
 ```bash
 pip install scikit-fuzzy numpy matplotlib pandas scikit-learn
